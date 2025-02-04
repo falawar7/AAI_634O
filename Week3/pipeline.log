@@ -1,0 +1,288 @@
+2025-02-04 13:25:01,109 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:25:01,109 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:25:01,109 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:25:01,109 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:25:01,110 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:25:01,110 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:25:01,110 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:25:01,110 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:26:30,006 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:26:30,006 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:26:30,006 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:26:30,006 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:26:30,006 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:26:30,008 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:26:30,008 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:26:30,008 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:26:30,008 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:26:30,008 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,984 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,984 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,984 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,984 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,984 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,984 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,985 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,985 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,985 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,985 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,985 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:27:08,985 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:27:39,989 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:27:39,989 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:27:39,989 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:27:39,989 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:27:39,989 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:27:39,989 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:27:39,989 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:27:39,990 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:27:39,990 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:27:39,990 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:27:39,990 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:27:39,990 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:27:39,990 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:27:39,990 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:29:50,893 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:29:50,893 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:29:50,893 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:29:50,893 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:29:50,893 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:29:50,893 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:29:50,893 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:29:50,893 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:29:50,893 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:29:50,894 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:29:50,894 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:29:50,894 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:29:50,894 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:29:50,894 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:29:50,894 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:29:50,894 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:29:50,894 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:29:50,894 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:30:24,525 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:30:24,525 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:30:24,525 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:30:24,525 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:30:24,525 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:30:24,525 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:30:24,525 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:30:24,525 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:30:24,525 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:30:24,525 - ERROR - Error reading CSV file: HTTP Error 404: Not Found
+2025-02-04 13:30:24,528 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:30:24,528 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:30:24,528 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:30:24,528 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:30:24,528 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:30:24,528 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:30:24,528 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:30:24,528 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:30:24,528 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:30:24,528 - ERROR - Pipeline execution failed: HTTP Error 404: Not Found
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,084 - ERROR - Unexpected error during MongoDB data load: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:32:45,086 - ERROR - Pipeline execution failed: Port must be an integer between 0 and 65535
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,011 - ERROR - Unexpected error during MongoDB data load: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:36:14,013 - ERROR - Pipeline execution failed: Port contains non-digit characters. Hint: username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,499 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:38:09,500 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,006 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:41:56,009 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,891 - ERROR - Missing expected column in data: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:44:24,893 - ERROR - Pipeline execution failed: 'quantity'
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,111 - ERROR - Error connecting to MongoDB or inserting data: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+2025-02-04 13:45:22,114 - ERROR - Pipeline execution failed: bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
