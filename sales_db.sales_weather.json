@@ -1,0 +1,756 @@
+[{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485a2"
+  },
+  "date": "2/1/2025",
+  "product_id": "P003",
+  "sales_amount": 450,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485a3"
+  },
+  "date": "2/1/2025",
+  "product_id": "P002",
+  "sales_amount": 950,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485a4"
+  },
+  "date": "2/1/2025",
+  "product_id": "P002",
+  "sales_amount": 950,
+  "store_location": "Houston",
+  "Temperature (°C)": 21.170000000000016,
+  "Humidity (%)": 83,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485a5"
+  },
+  "date": "2/2/2025",
+  "product_id": "P001",
+  "sales_amount": 150,
+  "store_location": "Seattle",
+  "Temperature (°C)": -0.2899999999999636,
+  "Humidity (%)": 95,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485a6"
+  },
+  "date": "2/2/2025",
+  "product_id": "P004",
+  "sales_amount": 600,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485a7"
+  },
+  "date": "2/2/2025",
+  "product_id": "P005",
+  "sales_amount": 750,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485a8"
+  },
+  "date": "2/2/2025",
+  "product_id": "P001",
+  "sales_amount": 900,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485a9"
+  },
+  "date": "2/2/2025",
+  "product_id": "P001",
+  "sales_amount": 900,
+  "store_location": "Chicago",
+  "Temperature (°C)": -4.359999999999957,
+  "Humidity (%)": 58,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485aa"
+  },
+  "date": "2/2/2025",
+  "product_id": "P002",
+  "sales_amount": 300,
+  "store_location": "Seattle",
+  "Temperature (°C)": -0.2899999999999636,
+  "Humidity (%)": 95,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485ab"
+  },
+  "date": "2/2/2025",
+  "product_id": "P005",
+  "sales_amount": 750,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485ac"
+  },
+  "date": "2/3/2025",
+  "product_id": "P002",
+  "sales_amount": 300,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485ad"
+  },
+  "date": "2/3/2025",
+  "product_id": "P005",
+  "sales_amount": 750,
+  "store_location": "Houston",
+  "Temperature (°C)": 21.170000000000016,
+  "Humidity (%)": 83,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485ae"
+  },
+  "date": "2/4/2025",
+  "product_id": "P002",
+  "sales_amount": 950,
+  "store_location": "Chicago",
+  "Temperature (°C)": -4.359999999999957,
+  "Humidity (%)": 58,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485af"
+  },
+  "date": "2/4/2025",
+  "product_id": "P001",
+  "sales_amount": 150,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485b0"
+  },
+  "date": "2/4/2025",
+  "product_id": "P003",
+  "sales_amount": 450,
+  "store_location": "Houston",
+  "Temperature (°C)": 21.170000000000016,
+  "Humidity (%)": 83,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485b1"
+  },
+  "date": "2/4/2025",
+  "product_id": "P004",
+  "sales_amount": 600,
+  "store_location": "Seattle",
+  "Temperature (°C)": -0.2899999999999636,
+  "Humidity (%)": 95,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485b2"
+  },
+  "date": "2/5/2025",
+  "product_id": "P001",
+  "sales_amount": 150,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485b3"
+  },
+  "date": "2/5/2025",
+  "product_id": "P002",
+  "sales_amount": 300,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485b4"
+  },
+  "date": "2/5/2025",
+  "product_id": "P003",
+  "sales_amount": 450,
+  "store_location": "Chicago",
+  "Temperature (°C)": -4.359999999999957,
+  "Humidity (%)": 58,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485b5"
+  },
+  "date": "2/5/2025",
+  "product_id": "P004",
+  "sales_amount": 600,
+  "store_location": "Houston",
+  "Temperature (°C)": 21.170000000000016,
+  "Humidity (%)": 83,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485b6"
+  },
+  "date": "2/5/2025",
+  "product_id": "P005",
+  "sales_amount": 750,
+  "store_location": "Seattle",
+  "Temperature (°C)": -0.2899999999999636,
+  "Humidity (%)": 95,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485b7"
+  },
+  "date": "2/5/2025",
+  "product_id": "P001",
+  "sales_amount": 900,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485b8"
+  },
+  "date": "2/5/2025",
+  "product_id": "P002",
+  "sales_amount": 950,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485b9"
+  },
+  "date": "2/6/2025",
+  "product_id": "P001",
+  "sales_amount": 150,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485ba"
+  },
+  "date": "2/6/2025",
+  "product_id": "P002",
+  "sales_amount": 300,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485bb"
+  },
+  "date": "2/6/2025",
+  "product_id": "P003",
+  "sales_amount": 450,
+  "store_location": "Chicago",
+  "Temperature (°C)": -4.359999999999957,
+  "Humidity (%)": 58,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485bc"
+  },
+  "date": "2/6/2025",
+  "product_id": "P004",
+  "sales_amount": 600,
+  "store_location": "Houston",
+  "Temperature (°C)": 21.170000000000016,
+  "Humidity (%)": 83,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485bd"
+  },
+  "date": "2/6/2025",
+  "product_id": "P005",
+  "sales_amount": 750,
+  "store_location": "Seattle",
+  "Temperature (°C)": -0.2899999999999636,
+  "Humidity (%)": 95,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485be"
+  },
+  "date": "2/6/2025",
+  "product_id": "P001",
+  "sales_amount": 900,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485bf"
+  },
+  "date": "2/6/2025",
+  "product_id": "P002",
+  "sales_amount": 950,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485c0"
+  },
+  "date": "2/6/2025",
+  "product_id": "P004",
+  "sales_amount": 600,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485c1"
+  },
+  "date": "2/6/2025",
+  "product_id": "P005",
+  "sales_amount": 750,
+  "store_location": "Chicago",
+  "Temperature (°C)": -4.359999999999957,
+  "Humidity (%)": 58,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485c2"
+  },
+  "date": "2/6/2025",
+  "product_id": "P001",
+  "sales_amount": 900,
+  "store_location": "Houston",
+  "Temperature (°C)": 21.170000000000016,
+  "Humidity (%)": 83,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485c3"
+  },
+  "date": "2/6/2025",
+  "product_id": "P002",
+  "sales_amount": 950,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485c4"
+  },
+  "date": "2/6/2025",
+  "product_id": "P005",
+  "sales_amount": 750,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485c5"
+  },
+  "date": "2/6/2025",
+  "product_id": "P001",
+  "sales_amount": 900,
+  "store_location": "Chicago",
+  "Temperature (°C)": -4.359999999999957,
+  "Humidity (%)": 58,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485c6"
+  },
+  "date": "2/6/2025",
+  "product_id": "P002",
+  "sales_amount": 950,
+  "store_location": "Houston",
+  "Temperature (°C)": 21.170000000000016,
+  "Humidity (%)": 83,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485c7"
+  },
+  "date": "2/6/2025",
+  "product_id": "P001",
+  "sales_amount": 150,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485c8"
+  },
+  "date": "2/6/2025",
+  "product_id": "P002",
+  "sales_amount": 300,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485c9"
+  },
+  "date": "2/7/2025",
+  "product_id": "P001",
+  "sales_amount": 150,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485ca"
+  },
+  "date": "2/7/2025",
+  "product_id": "P002",
+  "sales_amount": 300,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485cb"
+  },
+  "date": "2/7/2025",
+  "product_id": "P003",
+  "sales_amount": 450,
+  "store_location": "Chicago",
+  "Temperature (°C)": -4.359999999999957,
+  "Humidity (%)": 58,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485cc"
+  },
+  "date": "2/7/2025",
+  "product_id": "P004",
+  "sales_amount": 600,
+  "store_location": "Houston",
+  "Temperature (°C)": 21.170000000000016,
+  "Humidity (%)": 83,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485cd"
+  },
+  "date": "2/7/2025",
+  "product_id": "P005",
+  "sales_amount": 750,
+  "store_location": "Seattle",
+  "Temperature (°C)": -0.2899999999999636,
+  "Humidity (%)": 95,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485ce"
+  },
+  "date": "2/7/2025",
+  "product_id": "P001",
+  "sales_amount": 900,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485cf"
+  },
+  "date": "2/7/2025",
+  "product_id": "P002",
+  "sales_amount": 950,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485d0"
+  },
+  "date": "2/8/2025",
+  "product_id": "P001",
+  "sales_amount": 150,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485d1"
+  },
+  "date": "2/8/2025",
+  "product_id": "P002",
+  "sales_amount": 300,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485d2"
+  },
+  "date": "2/8/2025",
+  "product_id": "P003",
+  "sales_amount": 450,
+  "store_location": "Chicago",
+  "Temperature (°C)": -4.359999999999957,
+  "Humidity (%)": 58,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485d3"
+  },
+  "date": "2/8/2025",
+  "product_id": "P004",
+  "sales_amount": 600,
+  "store_location": "Houston",
+  "Temperature (°C)": 21.170000000000016,
+  "Humidity (%)": 83,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485d4"
+  },
+  "date": "2/8/2025",
+  "product_id": "P005",
+  "sales_amount": 750,
+  "store_location": "Seattle",
+  "Temperature (°C)": -0.2899999999999636,
+  "Humidity (%)": 95,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485d5"
+  },
+  "date": "2/8/2025",
+  "product_id": "P001",
+  "sales_amount": 900,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485d6"
+  },
+  "date": "2/8/2025",
+  "product_id": "P002",
+  "sales_amount": 950,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485d7"
+  },
+  "date": "2/8/2025",
+  "product_id": "P001",
+  "sales_amount": 150,
+  "store_location": "Chicago",
+  "Temperature (°C)": -4.359999999999957,
+  "Humidity (%)": 58,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485d8"
+  },
+  "date": "2/8/2025",
+  "product_id": "P002",
+  "sales_amount": 300,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485d9"
+  },
+  "date": "2/8/2025",
+  "product_id": "P003",
+  "sales_amount": 450,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485da"
+  },
+  "date": "2/9/2025",
+  "product_id": "P001",
+  "sales_amount": 150,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485db"
+  },
+  "date": "2/9/2025",
+  "product_id": "P005",
+  "sales_amount": 750,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485dc"
+  },
+  "date": "2/9/2025",
+  "product_id": "P001",
+  "sales_amount": 900,
+  "store_location": "Chicago",
+  "Temperature (°C)": -4.359999999999957,
+  "Humidity (%)": 58,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485dd"
+  },
+  "date": "2/9/2025",
+  "product_id": "P002",
+  "sales_amount": 950,
+  "store_location": "Houston",
+  "Temperature (°C)": 21.170000000000016,
+  "Humidity (%)": 83,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485de"
+  },
+  "date": "2/9/2025",
+  "product_id": "P001",
+  "sales_amount": 150,
+  "store_location": "Seattle",
+  "Temperature (°C)": -0.2899999999999636,
+  "Humidity (%)": 95,
+  "Weather Description": "overcast clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485df"
+  },
+  "date": "2/9/2025",
+  "product_id": "P003",
+  "sales_amount": 450,
+  "store_location": "New York",
+  "Temperature (°C)": 1.0300000000000296,
+  "Humidity (%)": 87,
+  "Weather Description": "broken clouds"
+},
+{
+  "_id": {
+    "$oid": "67a8bf2b922c5b9c430485e0"
+  },
+  "date": "2/9/2025",
+  "product_id": "P004",
+  "sales_amount": 600,
+  "store_location": "Los Angeles",
+  "Temperature (°C)": 12.400000000000034,
+  "Humidity (%)": 30,
+  "Weather Description": "broken clouds"
+}]
