@@ -1,0 +1,64 @@
+date,product_id,sales_amount,store_location
+2/1/2025,P003,450,Los Angeles
+2/1/2025,P002,950,New York
+2/1/2025,P002,950,Houston
+2/2/2025,P001,150,Seattle
+2/2/2025,P004,600,New York
+2/2/2025,P005,750,Los Angeles
+2/2/2025,P001,900,Los Angeles
+2/2/2025,P001,900,Chicago
+2/2/2025,P002,300,Seattle
+2/2/2025,P005,750,New York
+2/3/2025,P002,300,New York
+2/3/2025,P005,750,Houston
+2/4/2025,P002,950,Chicago
+2/4/2025,P001,150,Los Angeles
+2/4/2025,P003,450,Houston
+2/4/2025,P004,600,Seattle
+2/5/2025,P001,150,New York
+2/5/2025,P002,300,Los Angeles
+2/5/2025,P003,450,Chicago
+2/5/2025,P004,600,Houston
+2/5/2025,P005,750,Seattle
+2/5/2025,P001,900,New York
+2/5/2025,P002,950,Los Angeles
+2/6/2025,P001,150,New York
+2/6/2025,P002,300,Los Angeles
+2/6/2025,P003,450,Chicago
+2/6/2025,P004,600,Houston
+2/6/2025,P005,750,Seattle
+2/6/2025,P001,900,New York
+2/6/2025,P002,950,Los Angeles
+2/6/2025,P004,600,Los Angeles
+2/6/2025,P005,750,Chicago
+2/6/2025,P001,900,Houston
+2/6/2025,P002,950,New York
+2/6/2025,P005,750,Los Angeles
+2/6/2025,P001,900,Chicago
+2/6/2025,P002,950,Houston
+2/6/2025,P001,150,New York
+2/6/2025,P002,300,Los Angeles
+2/7/2025,P001,150,New York
+2/7/2025,P002,300,Los Angeles
+2/7/2025,P003,450,Chicago
+2/7/2025,P004,600,Houston
+2/7/2025,P005,750,Seattle
+2/7/2025,P001,900,New York
+2/7/2025,P002,950,Los Angeles
+2/8/2025,P001,150,New York
+2/8/2025,P002,300,Los Angeles
+2/8/2025,P003,450,Chicago
+2/8/2025,P004,600,Houston
+2/8/2025,P005,750,Seattle
+2/8/2025,P001,900,New York
+2/8/2025,P002,950,Los Angeles
+2/8/2025,P001,150,Chicago
+2/8/2025,P002,300,Los Angeles
+2/8/2025,P003,450,New York
+2/9/2025,P001,150,New York
+2/9/2025,P005,750,Los Angeles
+2/9/2025,P001,900,Chicago
+2/9/2025,P002,950,Houston
+2/9/2025,P001,150,Seattle
+2/9/2025,P003,450,New York
+2/9/2025,P004,600,Los Angeles
